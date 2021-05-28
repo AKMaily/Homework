@@ -29,7 +29,7 @@ plt.show()
 #analytisch
 x1 = 0.5 
 a1 =1 
-h1 = 0.001
+h1 = 0.002
 t1= 0 
 arrayt1 = np.arange(0,7,h1)
 arrayx1 = np.arange(0,7,h1)
